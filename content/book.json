@@ -69,10 +69,10 @@
             ]
         },
         "github": {
-            "url": "https://gitee.com/zxhTom/framework-book"
+            "url": "https://github.com/zxhTom/framework-book"
         },
         "github-buttons": {
-            "repo": "zxhtom/framework-book",
+            "repo": "zxhTom/framework-book",
             "types": [
                 "star"
             ],
@@ -128,7 +128,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://gitee.com/zxhtom/framework-book/edit/master",
+            "base": "https://github.com/zxhTom/framework-book/edit/master",
             "label": "Edit This Page"
         },
         "sitemap-general": {
@@ -156,11 +156,11 @@
         "versions": {
             "options": [
                 {
-                    "value": "http://gitbook.zhangjikai.com",
+                    "value": "https://github.com/zxhTom/framework-book",
                     "text": "v3.2.3"
                 },
                 {
-                    "value": "http://gitbook.zhangjikai.com/v2/",
+                    "value": "https://gitee.com/zxhtom/framework-book",
                     "text": "v2.6.4"
                 }
             ]
@@ -171,7 +171,7 @@
             "description": "记录 GitBook 的配置和一些插件的使用",
             "author": "Jikai Zhang",
             "feed_url": "http://gitbook.zhangjikai.com/rss",
-            "site_url": "http://zxhtom.oschina.io/framework-book",
+            "site_url": "http://zxhtom.github.io/framework-book",
             "managingEditor": "me@zxhtom.com",
             "webMaster": "me@zxhtom.com",
             "categories": [
