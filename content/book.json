@@ -128,7 +128,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zxhTom/framework-book/edit/master",
+            "base": "https://github.com/zxhTom/framework-book/blob/master",
             "label": "Edit This Page"
         },
         "sitemap-general": {
