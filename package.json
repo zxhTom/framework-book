@@ -1,0 +1,17 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "framework项目的说明书，采用gitbook编写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build ./content ./doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:zxhTom/framework-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

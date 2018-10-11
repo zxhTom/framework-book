@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GitBook 使用教程]]></title>
+        <description><![CDATA[记录 GitBook 的配置和一些插件的使用]]></description>
+        <link>http://zxhtom.oschina.io/framework-book</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 10 Oct 2018 14:47:42 GMT</lastBuildDate>
+        <atom:link href="http://gitbook.zhangjikai.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Jikai Zhang]]></author>
+        <managingEditor><![CDATA[me@zxhtom.com]]></managingEditor>
+        <webMaster><![CDATA[me@zxhtom.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[framework-book]]></title>
+            <description><![CDATA[framework项目的说明书，采用gitbook编写]]></description>
+            <link>http://zxhtom.oschina.io/framework-book</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-book</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第一章]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter1/README.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter1/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第一节]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter1/section1.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter1/section1.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第二节]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter1/section2.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter1/section2.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第二章]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter2/README.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter2/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第一节]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter2/section1.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter2/section1.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第二节]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter2/section2.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter2/section2.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第三节]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookchapter2/section3.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookchapter2/section3.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[结束]]></title>
+            <link>http://zxhtom.oschina.io/framework-bookend/README.html</link>
+            <guid isPermaLink="true">http://zxhtom.oschina.io/framework-bookend/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+    </channel>
+</rss>
